@@ -1,2 +1,2 @@
 # chatGPT-electron
-ChatGPT of OpenAI builded with electron for destop app
+ChatGPT of OpenAI builded with electron for desktop app
