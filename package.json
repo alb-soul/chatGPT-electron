@@ -1,6 +1,6 @@
 {
   "name": "chatgpt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple ChatGPT client built with Electron.",
   "author": "alb-soul <xeamam.hsu@gmail.com>",
   "homepage": "https://alb-soul.github.io",
