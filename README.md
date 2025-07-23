@@ -2,7 +2,7 @@
 Simple ChatGPT (https://chatgpt.com) of OpenAI (https://openai.com) builded with electron for desktop app.
 
 ## Installation
-Download the AppImage app file from Release page [here](https://github.com/alb-soul/chatGPT-electron/releases)
+Download the AppImage app file from Release page [here](https://github.com/alb-soul/chatGPT-electron/releases/tag/v1.0.1)
 
 Give executable permission
 ```bash
