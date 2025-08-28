@@ -2,7 +2,7 @@
 Simple ChatGPT (https://chatgpt.com) of OpenAI (https://openai.com) builded with electron for desktop app.
 
 ## Installation
-There are 2 ways to install, (1) via packed package like .deb file (for Debian/Ubuntu/Mint and derivates) or .rpm (form RPM-bsaed distros) and (2) via AppImage. Download one of them from Release page [here](https://github.com/alb-soul/chatGPT-electron/releases/tag/v1.0.1)
+There are 2 ways to install, (1) via packed package like .deb file (for Debian/Ubuntu/Mint and derivates) or .rpm (for RPM-bsaed distros) and (2) via AppImage. Download one of them from release page [here](https://github.com/alb-soul/chatGPT-electron/releases/tag/v1.0.1)
 
 #### Download the .deb file (for Debian/Ubuntu/Mint or derivates) then install it :
 ```bash
@@ -14,7 +14,7 @@ sudo dpkg -i chatgpt_1.0.1_amd64.deb
 sudo dnf install ./chatgpt-1.0.1.x86_64.rpm
 ```
 Or
-#### Download the .AppImage app file from Release page [here](https://github.com/alb-soul/chatGPT-electron/releases/tag/v1.0.1)
+#### Download the .AppImage app file from release page [here](https://github.com/alb-soul/chatGPT-electron/releases/tag/v1.0.1), then follow the following instructions
 
 Give executable permission
 ```bash
